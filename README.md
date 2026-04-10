@@ -18,7 +18,7 @@ Ce projet fait partie de mon portfolio Data Analyst. L'objectif est d'extraire d
 | Fichier | Description |
 |---|---|
 | `requetes.sql` | Les 4 requêtes SQL commentées |
-| `Book 1.xlsx` | Données exportées (4 onglets) |
+| `donnees_football.xlsx` | Données exportées (4 onglets) |
 | `Dashboard.png` | Screenshot du dashboard Power BI final |
 
 ---
