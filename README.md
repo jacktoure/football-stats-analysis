@@ -38,4 +38,4 @@ Ce projet fait partie de mon portfolio Data Analyst. L'objectif est d'extraire d
 
 ## Auteur
 **Jack Kadjo Touré** — Étudiant en Marketing Digital & Data Analysis (ISTEC Paris)  
-[LinkedIn](https://www.linkedin.com/in/jacktoure) | [Portfolio](https://ton-portfolio.netlify.app)
+[LinkedIn]([https://www.linkedin.com/in/jacktoure](https://www.linkedin.com/in/jack-kadjo-toure-b43450271/)) | [Portfolio](https://ton-portfolio.netlify.app)
