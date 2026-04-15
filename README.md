@@ -27,7 +27,7 @@ Ce projet fait partie de mon portfolio Data Analyst. L'objectif est d'extraire d
 1. **Top 10 victoires à domicile** — FC Barcelone domine avec 131 victoires
 2. **Matchs avec le plus de buts** — Real Madrid 10-2 Rayo Vallecano, Motherwell 6-6 Hibernian
 3. **Évolution buts/match en Ligue 1** — Progression de +0.27 but/match sur 8 saisons
-4. **Top 10 victoires à l'extérieur** — FC Barcelone encore leader avec 103 victoires
+4. **Top 10 victoires à l'extérieur** — Real Madrid leader avec 103 victoires
 
 ---
 
